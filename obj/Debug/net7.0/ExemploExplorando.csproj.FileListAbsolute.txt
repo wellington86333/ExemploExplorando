@@ -1,0 +1,14 @@
+C:\workspace\ExemploExplorando\bin\Debug\net7.0\ExemploExplorando.exe
+C:\workspace\ExemploExplorando\bin\Debug\net7.0\ExemploExplorando.deps.json
+C:\workspace\ExemploExplorando\bin\Debug\net7.0\ExemploExplorando.runtimeconfig.json
+C:\workspace\ExemploExplorando\bin\Debug\net7.0\ExemploExplorando.dll
+C:\workspace\ExemploExplorando\bin\Debug\net7.0\ExemploExplorando.pdb
+C:\workspace\ExemploExplorando\obj\Debug\net7.0\ExemploExplorando.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\ExemploExplorando\obj\Debug\net7.0\ExemploExplorando.AssemblyInfoInputs.cache
+C:\workspace\ExemploExplorando\obj\Debug\net7.0\ExemploExplorando.AssemblyInfo.cs
+C:\workspace\ExemploExplorando\obj\Debug\net7.0\ExemploExplorando.csproj.CoreCompileInputs.cache
+C:\workspace\ExemploExplorando\obj\Debug\net7.0\ExemploExplorando.dll
+C:\workspace\ExemploExplorando\obj\Debug\net7.0\refint\ExemploExplorando.dll
+C:\workspace\ExemploExplorando\obj\Debug\net7.0\ExemploExplorando.pdb
+C:\workspace\ExemploExplorando\obj\Debug\net7.0\ExemploExplorando.genruntimeconfig.cache
+C:\workspace\ExemploExplorando\obj\Debug\net7.0\ref\ExemploExplorando.dll
